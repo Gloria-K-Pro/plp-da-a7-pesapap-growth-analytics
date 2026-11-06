@@ -1,0 +1,14 @@
+# Generated source datasets
+users.csv
+transactions.csv
+experiment.csv
+
+# Rebuildable SQLite database
+*.db
+*.sqlite
+*.sqlite3
+
+# Python and notebook artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
